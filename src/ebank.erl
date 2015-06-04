@@ -1,14 +1,14 @@
 -module(ebank).
 
 -export([
-	start/0, 
-	stop/0, 
-	create_account/1, 
-	delete_account/1, 
-	deposit/2, 
-	withdraw/2, 
-	balance/1
-	]).
+    start/0, 
+    stop/0, 
+    create_account/1, 
+    delete_account/1, 
+    deposit/2, 
+    withdraw/2, 
+    balance/1
+    ]).
 
 -define(APPLICATION, ebank).
 
