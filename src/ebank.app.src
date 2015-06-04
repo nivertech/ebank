@@ -1,6 +1,6 @@
 {application, ebank,
  [
-  {description, ""},
+  {description, "ebank"},
   {vsn, "1"},
   {registered, []},
   {applications, [
